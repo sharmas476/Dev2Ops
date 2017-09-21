@@ -3,7 +3,7 @@
 ## These are installation steps and not a user guide.
 
 ### Step 1
-Download and extract SCM_Project.zip from github.
+Download and extract Dev2Ops_Code.zip from github.
 ### Step 2
 Download [Eclipse](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/juno/SR2/eclipse-jee-juno-SR2-win32-x86_64.zip) and unzip and open it.
 ### Step 3
